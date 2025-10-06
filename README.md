@@ -1,27 +1,49 @@
-## Hi there 👋, My name is Muchamad Faza Fadillah
-Now i'm a student in collage name University Suryakancana
-Faculty of Engineering, Department of Informatics Engineering
-Currently i can use 5 programming languange
-- Javascript
-- Java
-- PHP
-- C++
-- PYTHON
+<h1 align="center">Hi there 👋, I'm Muchamad Faza Fadillah</h1>
+<h3 align="center">💻 Informatics Engineering Student | Backend & Fullstack Enthusiast</h3>
 
-And i can use Laravel Framework and database with Mysql
-and now i use postgreSQL for dbms
+---
 
-<!--
-**Fazafadillah/Fazafadillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me  
+I'm a student at **University Suryakancana**, Faculty of Engineering, Department of Informatics Engineering.  
+I love learning about **software development**, especially backend systems, APIs, and web applications.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **PostgreSQL**, **Laravel**, and **modern backend practices**
+- 💬 Ask me about **JavaScript, Java, PHP, C++, and Python**
+- ⚡ Fun fact: I enjoy exploring new tech stacks and improving my coding skills every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,php,cpp,python,html,css,laravel,mysql,postgres,vscode,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fazafadillah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazafadillah&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazafadillah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://instagram.com/mucfaza23_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:fazafadillah@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *"Code is like humor — when you have to explain it, it’s bad."*  
